@@ -1,0 +1,3 @@
+[submodule "entw"]
+	path = entw
+	url = git@github.com:armingjazi/entw.git
